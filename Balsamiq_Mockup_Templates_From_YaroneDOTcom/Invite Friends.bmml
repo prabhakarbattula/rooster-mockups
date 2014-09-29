@@ -1,0 +1,153 @@
+<mockup version="1.0" skin="sketch" measuredW="1004" measuredH="465" mockupW="927" mockupH="391">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="77" y="74" w="-1" h="-1" measuredW="157" measuredH="46" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5263440</color>
+        <size>28</size>
+        <text>MyWebApp</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="894" y="84" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Hi%20Jessica%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="81" y="117" w="880" h="10" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="77" y="139" w="394" h="30" measuredW="343" measuredH="34" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Invite%20your%20friends%20to%20MyWebApp%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="77" y="175" w="458" h="76" measuredW="338" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>If%20you%20like%20MyWebApp%2C%20please%20help%20us%20spread%20the%20word.</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="77" y="292" w="32" h="14" measuredW="66" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/logo_gmail.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="243" y="292" w="50" h="15" measuredW="100" measuredH="34" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/aol.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="115" y="293" w="55" h="11" measuredW="120" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/yahoo.gif</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="176" y="294" w="60" h="16" measuredW="160" measuredH="43" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Images/outlook_and_oe.gif</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="361" y="437" w="101" h="28" measuredW="98" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Send%20invites</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextArea" x="77" y="355" w="385" h="82" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <bold>false</bold>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="81" y="359" w="238" h="25" measuredW="236" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>8554646</color>
+        <text>jen@example.com%2C%20mike@example.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="77" y="236" w="317" h="30" measuredW="131" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Invite%20by%20E-mail</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="77" y="266" w="251" h="26" measuredW="126" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Invite%20your%20contacts</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="361" y="288" w="101" h="28" measuredW="91" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Continue%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="77" y="329" w="379" h="26" measuredW="178" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Or%2C%20type-in%20e-mail%20addresses</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="544" y="236" w="408" h="30" measuredW="396" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Share%20this%20link%20on%20Facebook%2C%20Twitter%2C%20or%20LinkedIn</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="544" y="266" w="460" h="-1" measuredW="244" measuredH="29" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>http%3A//mywebapp.com/invite/2iSC7dF</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextArea" x="544" y="307" w="460" h="68" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Do%20that%20awesome%20thing%20in%20the%20most%20easiest%20way%2C%20ever%2C%20with%20@mywebapp.%20%20It%27s%20free%21%20%20http%3A//mywebapp.com/invite/2iSC7dF</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="544" y="410" w="148" h="28" measuredW="156" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <icon>FacebookIcon%7Cxsmall</icon>
+        <text>Share%20on%20Facebook</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="700" y="410" w="145" h="28" measuredW="149" measuredH="28" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <icon>TwitterIcon%7Cxsmall</icon>
+        <text>Tweet%20on%20Twitter</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="853" y="410" w="151" h="28" measuredW="153" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <icon>LinkedInIcon%7Cxsmall</icon>
+        <text>Share%20on%20LinkedIn</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="860" y="373" w="140" h="22" measuredW="130" measuredH="22" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>false</bold>
+        <color>10066329</color>
+        <size>11</size>
+        <text>37%20characters%20remaining</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

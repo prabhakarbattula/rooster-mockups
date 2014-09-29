@@ -1,0 +1,111 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="705" measuredH="670" mockupW="685" mockupH="668">
+  <controls>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::iPhone" x="59" y="50" w="360" h="573" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Tooltip" x="131" y="245" w="216" h="84" measuredW="214" measuredH="0" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>12</size>
+        <text>Hi%20folks%2C%20the%20game%20scheduled%20for%20tonight%20is%20being%20cancelled%20because%20of%20rain.%20Stay%20tuned%20for%20when%20the%20make%20up%20game%20will%20happen.</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Image" x="187" y="156" w="105" h="38" measuredW="528" measuredH="249" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/rooster-20-b-logo-crop-u322.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::RoundButton" x="282" y="329" w="65" h="19" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <shape>roundRect</shape>
+        <text>william</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::RoundButton" x="131" y="329" w="106" h="21" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10667209</color>
+        <shape>roundRect</shape>
+        <size>9</size>
+        <text>09/21/2014%2010%3A28%20AM</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::RoundButton" x="132" y="205" w="145" h="23" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16767334</color>
+        <shape>roundRect</shape>
+        <size>18</size>
+        <text>MIAMI%20JAUARS</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::RoundButton" x="277" y="205" w="66" h="23" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7775663</color>
+        <shape>roundRect</shape>
+        <size>11</size>
+        <text>Oval%20Club</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::HRule" x="270" y="212" w="14" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::TextArea" x="129" y="413" w="216" h="80" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thurday%20kids%20are%20off%20from%20school.%20So%20it%20would%20be%20nice%20to%20have%20make%20up%20game%20on%20that%20day.%20Give%20it%20a%20thought</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Label" x="131" y="393" w="-1" h="-1" measuredW="33" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reply</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::RoundButton" x="282" y="493" w="66" h="23" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7775663</color>
+        <shape>roundRect</shape>
+        <size>11</size>
+        <text>Send</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::HRule" x="131" y="377" w="216" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::RoundButton" x="183" y="66" w="113" h="19" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <shape>roundRect</shape>
+        <text>Paul%27s%20Mobile</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::StickyNote" x="474" y="444" w="210" h="96" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Message%20is%20sent%20to%20all%20the%20Team%20Members</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Arrow" x="324" y="481" w="150" h="50" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Icon" x="292" y="508" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>HandPointIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Canvas" x="20" y="2" w="685" h="668" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

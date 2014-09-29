@@ -1,0 +1,88 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="806" measuredH="530" mockupW="806" mockupH="530">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="806" h="530" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rooster%0Ahttp%3A//rooster.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="244" y="282" w="301" h="-1" measuredW="259" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1205%2C%207th%20Street%2C%20Miami%2C%20Florida%20-%20325634</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TextInput" x="380" y="203" w="165" h="-1" measuredW="94" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Miami%20Jaguar</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="462" y="372" w="76" h="35" measuredW="46" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::HRule" x="183" y="345" w="362" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="254" y="206" w="108" h="-1" measuredW="35" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="254" y="247" w="108" h="-1" measuredW="78" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Activity%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="183" y="286" w="50" h="-1" measuredW="49" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Address</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::LinkBar" x="167" y="91" w="-1" h="-1" measuredW="420" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>1</selectedIndex>
+        <size>20</size>
+        <text>Dashboard%2C%20Team%2C%20Events%2C%20Message%20Center</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="657" y="90" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>false</bold>
+        <text>Hi%20William%21%20%20%5BSign%20Out%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::FieldSet" x="167" y="178" w="394" h="242" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="167" y="146" w="151" h="-1" measuredW="132" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Show%20TEAM</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="0" y="76" w="137" h="43" measuredW="528" measuredH="249" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/rooster-20-b-logo-crop-u322.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="629" y="88" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GearIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ComboBox" x="380" y="245" w="165" h="-1" measuredW="70" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sports</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

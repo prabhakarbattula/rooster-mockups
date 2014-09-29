@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" measuredW="933" measuredH="607" mockupW="856" mockupH="576">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="77" y="31" w="-1" h="-1" measuredW="178" measuredH="51" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>MyWebApp</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="77" y="82" w="-1" h="-1" measuredW="343" measuredH="34" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>The%20easiest%20way%20to%20do%20x%2C%20y%2C%20and%20z</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="83" y="476" w="850" h="106" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>5263440</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="90" y="485" w="-1" h="-1" measuredW="74" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>13</size>
+        <text>Learn%20More</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="325" y="484" w="74" h="25" measuredW="57" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>13</size>
+        <text>Company</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="560" y="484" w="74" h="25" measuredW="58" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>13</size>
+        <text>Partners</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="795" y="484" w="74" h="25" measuredW="63" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>13</size>
+        <text>Follow%20Us</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Paragraph" x="90" y="504" w="200" h="92" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>11</size>
+        <state>up</state>
+        <text>*%20How%20It%20Works%0A*%20Frequently%20Asked%20Questions%0A*%20Terms%20%26%20Privacy</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Paragraph" x="325" y="504" w="200" h="92" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>11</size>
+        <state>up</state>
+        <text>*%20About%20Us%0A*%20Contact%20Us</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Paragraph" x="560" y="504" w="200" h="92" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>11</size>
+        <state>up</state>
+        <text>*%20Affiliates%3A%20Earn%20Commission%0A*%20Developer%20API%0A*%20Platform%20Licensing%0A*%20International</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Paragraph" x="796" y="504" w="114" h="92" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>11</size>
+        <state>up</state>
+        <text>*%20Twitter%0A*%20Facebook%0A*%20Blog</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="83" y="585" w="850" h="22" measuredW="163" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <color>5263440</color>
+        <size>11</size>
+        <text>Copyright%20%28C%29%202010%20MyWebApp</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="77" y="116" w="849" h="-1" measuredW="100" measuredH="5" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8554646</color>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="77" y="131" w="849" h="56" measuredW="761" measuredH="46" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6684672</color>
+        <size>28</size>
+        <text>Sorry%2C%20we%20weren%27t%20able%20to%20find%20the%20page%20you%20requested</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Paragraph" x="77" y="194" w="316" h="140" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <text>You%20might%20want%20to%3A%0A-%20%5BSign%20in%5D%20if%20you%20already%20have%20an%20account%0A-%20%5BSign%20up%5D%20if%20you%20don%27t%0A-%20%5BLearn%20more%5D%20about%20MyWebApp</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
