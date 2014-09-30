@@ -1,17 +1,9 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="980" measuredH="665" mockupW="980" mockupH="665">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1649" measuredH="1044" mockupW="1649" mockupH="1044">
   <controls>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="980" h="665" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="935" h="915" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <text>Rooster%0Ahttp%3A//rooster.com</text>
-      </controlProperties>
-    </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::LinkBar" x="243" y="91" w="-1" h="-1" measuredW="426" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <hrefs/>
-        <selectedIndex>0</selectedIndex>
-        <size>20</size>
-        <text>Dashboard%2C%20Team%2C%20Events%2C%20Message%20Center%20</text>
       </controlProperties>
     </control>
     <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="720" y="90" w="178" h="-1" measuredW="120" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
@@ -32,18 +24,308 @@
         <icon>GearIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="117" controlTypeID="__group__" x="51" y="184" w="770" h="337" measuredW="770" measuredH="337" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::DataGrid" x="29" y="209" w="869" h="290" measuredW="734" measuredH="287" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Name%5Cr%20%5Ev%2C%20Date%5Cr%20%5Ev%2C%20Time%5Cr%20%5Ev%2C%20Location%5Cr%20%5Ev%0AMiami%20Jaguar%27s%20makeup%20game%2C%2009/30/2014%2C%2010%3A15%20AM%2C%2010%20Main%20Street%5CrMalabar%20Florida%2032950%0ATampa%20Bay%20Club%27s%20weekly%20meet%2C%2010/05/2014%2C%2012%3A15%20PM%2C%20607%20Friend%20Street%5CrFlorida%2030905%0AMiami%20Jaguar%27s%20practice%2C%2010/08/2014%2C%2010%3A30%20AM%2C%2010%20Main%20Street%5CrMalabar%20Florida%2032950%0AFlorida%20Soccer%27s%20practice%2C%2010/08/2014%2C%2011%3A30%20AM%2C%20734%20Park%20Area%5CrFlorida%2031259%0ATampa%20Bay%20Club%27s%20practice%2C%2010/09/2014%2C%202%3A30%20PM%2C%20607%20Friend%20Street%5CrFlorida%2030905%0A%7B35L%2C%2015C%2C%2015C%2C%2025L%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="29" y="160" w="245" h="-1" measuredW="232" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>UPCOMING%20EVENTS</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Canvas" x="35" y="632" w="232" h="164" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Canvas" x="352" y="632" w="232" h="164" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Canvas" x="667" y="632" w="232" h="164" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::VSplitter" x="15" y="530" w="898" h="-1" measuredW="100" measuredH="11" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Label" x="35" y="547" w="245" h="-1" measuredW="115" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>My%20Teams</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="53" y="647" w="196" h="-1" measuredW="184" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%5BMIAMI%20JAGUARS%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Label" x="369" y="647" w="196" h="-1" measuredW="194" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%5BTAMPA%20BAY%20CLUB%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="685" y="647" w="196" h="-1" measuredW="175" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%5BSOCCER%20COVE%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Image" x="412" y="691" w="111" h="90" measuredW="220" measuredH="229" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/CLUB.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Image" x="727" y="696" w="112" h="80" measuredW="224" measuredH="225" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FOOTBALL.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Image" x="53" y="702" w="159" h="69" measuredW="280" measuredH="180" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/JAGUAR.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::IconLabel" x="788" y="564" w="-1" h="-1" measuredW="110" measuredH="47" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <borderStyle>square</borderStyle>
+        <color>40463</color>
+        <icon>PlusIcon%7Cmedium</icon>
+        <text>Create%20New%20Team</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::IconLabel" x="236" y="796" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13576743</color>
+        <icon>Trash2Icon%7Csmall</icon>
+        <text>delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::IconLabel" x="206" y="796" w="-1" h="-1" measuredW="24" measuredH="39" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>PencilIcon%7Csmall</icon>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::IconLabel" x="545" y="796" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13576743</color>
+        <icon>Trash2Icon%7Csmall</icon>
+        <text>delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::IconLabel" x="515" y="796" w="-1" h="-1" measuredW="24" measuredH="39" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>PencilIcon%7Csmall</icon>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::IconLabel" x="860" y="796" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13576743</color>
+        <icon>Trash2Icon%7Csmall</icon>
+        <text>delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::IconLabel" x="830" y="796" w="-1" h="-1" measuredW="24" measuredH="39" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>0</color>
+        <icon>PencilIcon%7Csmall</icon>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Label" x="975" y="347" w="186" h="-1" measuredW="148" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Create%20TEAM</text>
+      </controlProperties>
+    </control>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::TextInput" x="1133" y="415" w="195" h="-1" measuredW="79" measuredH="26" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Button" x="1277" y="573" w="57" h="26" measuredW="52" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::HRule" x="983" y="554" w="356" h="-1" measuredW="100" measuredH="10" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="394" w="40" h="-1" measuredW="35" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="463" w="84" h="-1" measuredW="78" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Activity%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::ComboBox" x="1133" y="487" w="195" h="-1" measuredW="70" measuredH="24" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sports</text>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::List" x="1501" y="499" w="148" h="165" measuredW="100" measuredH="160" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15134199</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>22</rowHeight>
+        <size>16</size>
+        <text>Sports%0ASocial%0ATraining%20%0ARace%0ATournament%0AMeeting%0AOther%20</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Arrow" x="1333" y="496" w="168" h="49" measuredW="150" measuredH="100" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Arrow" x="860" y="379" w="115" h="196" measuredW="150" measuredH="100" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Canvas" x="975" y="379" w="379" h="241" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Arrow" x="845" y="825" w="150" h="68" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::RoundButton" x="985" y="388" w="130" h="137" measuredW="32" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Label" x="982" y="525" w="130" h="-1" measuredW="55" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Add%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Canvas" x="995" y="803" w="379" h="241" measuredW="100" measuredH="70" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderStyle>roundedDotted</borderStyle>
+        <color>16776960</color>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Label" x="995" y="771" w="186" h="-1" measuredW="117" measuredH="32" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Edit%20TEAM</text>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::TextInput" x="1153" y="839" w="195" h="-1" measuredW="91" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Soccer%20Cove</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Button" x="1297" y="997" w="57" h="26" measuredW="52" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::HRule" x="1003" y="978" w="356" h="-1" measuredW="100" measuredH="10" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::Label" x="1148" y="818" w="40" h="-1" measuredW="35" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Label" x="1148" y="887" w="84" h="-1" measuredW="78" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Activity%20Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::ComboBox" x="1153" y="911" w="195" h="-1" measuredW="70" measuredH="24" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sports</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::RoundButton" x="1005" y="812" w="130" h="137" measuredW="32" measuredH="32" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Label" x="1002" y="949" w="130" h="-1" measuredW="79" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Change%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Image" x="1012" y="825" w="116" h="110" measuredW="224" measuredH="225" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/FOOTBALL.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Icon" x="1161" y="396" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Icon" x="1206" y="465" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="__group__" x="155" y="86" w="154" h="48" measuredW="154" measuredH="48" zOrder="51" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="49" w="770" h="288" measuredW="734" measuredH="287" zOrder="0" locked="false" isInGroup="117">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="154" h="48" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="183">
           <controlProperties>
-            <size>20</size>
-            <text>Name%5Cr%20%5Ev%2C%20Date%5Cr%20%5Ev%2C%20Time%5Cr%20%5Ev%2C%20Location%5Cr%20%5Ev%0AMiami%20Jaguar%27s%20makeup%20game%2C%2009/30/2014%2C%2010%3A15%20AM%2C%2010%20Main%20Street%5CrMalabar%20Florida%2032950%0ATampa%20Bay%20Club%27s%20weekly%20meet%2C%2010/05/2014%2C%2012%3A15%20PM%2C%20607%20Friend%20Street%5CrFlorida%2030905%0AMiami%20Jaguar%27s%20practice%2C%2010/08/2014%2C%2010%3A30%20AM%2C%2010%20Main%20Street%5CrMalabar%20Florida%2032950%0AFlorida%20Soccer%27s%20practice%2C%2010/08/2014%2C%2011%3A30%20AM%2C%20734%20Park%20Area%5CrFlorida%2031259%0ATampa%20Bay%20Club%27s%20practice%2C%2010/09/2014%2C%202%3A30%20PM%2C%20607%20Friend%20Street%5CrFlorida%2030905%0A%7B35L%2C%2015C%2C%2015C%2C%2025L%7D</text>
+            <backgroundAlpha>0</backgroundAlpha>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="245" h="-1" measuredW="232" measuredH="32" zOrder="1" locked="false" isInGroup="117">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="8" w="128" h="-1" measuredW="117" measuredH="32" zOrder="1" locked="false" isInGroup="183">
           <controlProperties>
             <size>24</size>
-            <text>UPCOMING%20EVENTS</text>
+            <state>disabled</state>
+            <text>Dashboard</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="184" controlTypeID="__group__" x="349" y="86" w="190" h="48" measuredW="190" measuredH="48" zOrder="52" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="190" h="48" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="184">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="8" w="160" h="-1" measuredW="152" measuredH="32" zOrder="1" locked="false" isInGroup="184">
+          <controlProperties>
+            <size>24</size>
+            <state>up</state>
+            <text>Members%20Talk</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
